@@ -1,7 +1,7 @@
 {
   "author": "Isotropy Team<isotropy@agilehead.com>",
   "name": "isotropy-server-eval",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Evaluate expressions in the context of an app (part of the Isotropy Framework)",
   "scripts": {
     "test": "mocha dist/test/test.js"
